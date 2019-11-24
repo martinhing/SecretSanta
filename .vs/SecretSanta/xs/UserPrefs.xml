@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7A2A2A67-3571-430E-8715-1B59DF9EC8A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SecretSanta PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecretSanta/Controllers/SecretSantaController.cs">
+    <Files>
+      <File FileName="SecretSanta/Controllers/SecretSantaController.cs" Line="85" Column="1" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SecretSanta" expanded="True">
+            <Node name="SecretSanta" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

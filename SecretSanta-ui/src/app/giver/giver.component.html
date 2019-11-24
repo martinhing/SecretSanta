@@ -1,0 +1,16 @@
+
+<h2>Secret Santa</h2>
+<form [formGroup]="giftGiverForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+        <label for="giverName">Name (first only)</label>
+        <input type="text" formControlName="giverName" class="form-control"/>
+    </div>
+    <div class="form-group">
+        <button [disabled]="loading" class="btn btn-primary">
+            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+            Get Recipient
+        </button>
+    </div>
+</form>
+
+<h2 *ngIf="recipient">{{recipient.name}}</h2>
