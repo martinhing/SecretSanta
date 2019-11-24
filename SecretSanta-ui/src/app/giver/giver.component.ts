@@ -37,7 +37,6 @@ export class GiverComponent implements OnInit {
     get f() { return this.giftGiverForm.controls; }
 
     onSubmit() {
-        debugger;
         this.submitted = true;
 
         // stop here if form is invalid
